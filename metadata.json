@@ -1,0 +1,6 @@
+{
+  "name": "Thriftly Zimbabwe",
+  "description": "Secondhand fashion marketplace in Zimbabwe: reserve to view, collect at the stand, or get delivery in English, chiShona, and isiNdebele.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
